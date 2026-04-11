@@ -3,3 +3,8 @@ INMOST-build/
 INMOST-install/
 
 INMOST/
+
+convergence_plot.png
+main.cpp
+results.csv
+time_plot.png
