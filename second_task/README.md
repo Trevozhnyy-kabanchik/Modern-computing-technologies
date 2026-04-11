@@ -7,7 +7,7 @@
 Для начала необходимо скачать исходный код библиотеки (https://github.com/INMOST-DEV/INMOST):
 
 ```bash
-git clone [https://github.com/INMOST-DEV/INMOST.git](https://github.com/INMOST-DEV/INMOST.git)
+git clone https://github.com/INMOST-DEV/INMOST.git
 ```
 
 Затем скомпилировать и установить её в локальную папку:
