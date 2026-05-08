@@ -10,7 +10,6 @@ mozhaysk_y = 21.66
 
 lc_boundary = 1.0
 lc_mozhaysk = 0.05  
-# =================
 
 points = []
 
