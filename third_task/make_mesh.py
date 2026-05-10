@@ -1,6 +1,5 @@
 import csv
 
-# === НАСТРОЙКИ ===
 csv_filename = 'Default Dataset.csv'
 geo_filename = 'mosreg_mesh.geo'
 
